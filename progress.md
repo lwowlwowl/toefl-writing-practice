@@ -1,17 +1,17 @@
-# Practice Progress Log
+# 练习进度记录
 
-## Summary
+## 总览
 
-| Metric | Email | Discussion | Total |
-|--------|-------|------------|-------|
-| Completed | 0 | 0 | 0 |
-| Average Score | — | — | — |
-| Highest Score | — | — | — |
-| Target Score | 5 | 5 | — |
+| 指标 | Email | Discussion | 合计 |
+|------|-------|------------|------|
+| 已完成 | 0 | 0 | 0 |
+| 平均分 | — | — | — |
+| 最高分 | — | — | — |
+| 目标分 | 5 | 5 | — |
 
-## Recurring Issues
+## 常见问题
 
-> After completing 5-10 topics, note your most common weaknesses here to focus your practice.
+> 完成 5-10 篇后，在此记录反复出现的薄弱点，集中突破。
 
 1. —
 2. —
@@ -19,14 +19,14 @@
 
 ---
 
-## Email Practice Log
+## Email 练习记录
 
-| # | Topic | Date | Time | Score | Key Takeaway |
-|---|-------|------|------|-------|-------------|
+| # | 题目 | 日期 | 用时 | 得分 | 核心收获 |
+|---|------|------|------|------|---------|
 | | | | | | |
 
-## Academic Discussion Practice Log
+## Academic Discussion 练习记录
 
-| # | Topic | Date | Time | Score | Key Takeaway |
-|---|-------|------|------|-------|-------------|
+| # | 题目 | 日期 | 用时 | 得分 | 核心收获 |
+|---|------|------|------|------|---------|
 | | | | | | |
