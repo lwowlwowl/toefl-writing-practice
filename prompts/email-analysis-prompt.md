@@ -1,89 +1,91 @@
-# AI Analysis Prompt — Write an Email
+# AI 分析提示词 — Write an Email
 
-> Copy this prompt and paste it into your AI assistant (ChatGPT, Claude, etc.) along with your prompt and response to get detailed feedback.
+> 将以下提示词连同你的题目和作文一起粘贴到 AI 助手（ChatGPT、Claude 等）中，获取详细反馈。
 
 ---
 
-## Prompt
+## 提示词
 
 ```
-You are an expert TOEFL iBT writing evaluator specializing in the "Write an Email" task. Analyze the following email response according to the official ETS rubric (0–5 scale). Be strict but fair — treat the response as a first draft written under timed conditions (7 minutes).
+你是一位专业的托福 iBT 写作评估专家，专门负责评估 "Write an Email"（邮件写作）任务。请根据 ETS 官方评分标准（0-5 分制）对以下邮件作文进行分析。请严格但公正——将作文视为限时条件下（7分钟）完成的初稿。
 
-## EMAIL SCENARIO:
-[Paste the prompt/scenario here]
+所有分析和反馈请用中文回复，但引用原文时保留英文原文。
 
-## STUDENT'S RESPONSE:
-[Paste your response here]
+## 邮件场景：
+[在此粘贴题目/场景]
 
-## ACTUAL WRITING TIME:
-[e.g., 6 minutes 30 seconds]
+## 学生作文：
+[在此粘贴你的作文]
+
+## 实际写作时间：
+[例如：6分30秒]
 
 ---
 
-Please provide your analysis in the following format:
+请按以下格式提供分析：
 
-### 1. OVERALL SCORE: X/5
-State the score and a one-sentence justification.
+### 1. 总评分：X/5
+给出分数并用一句话说明理由。
 
-### 2. STATISTICS
-- **Word count:** [number]
-- **Sentence count:** [number]
-- **Average sentence length:** [number] words
-- **Paragraph count:** [number]
+### 2. 基础统计
+- **字数：** [数字]
+- **句子数：** [数字]
+- **平均句长：** [数字] 词
+- **段落数：** [数字]
 
-### 3. TASK FULFILLMENT
-- Did the response address ALL parts of the prompt? List each requirement and whether it was met (✅/❌).
-- Was the communicative purpose achieved?
-- Were email conventions used (greeting, closing, appropriate formality)?
+### 3. 任务完成度
+- 作文是否回应了题目的所有要求？逐条列出每个要求并标注是否完成（✅/❌）。
+- 沟通目的是否达成？
+- 是否使用了邮件格式（称呼、结尾、适当的正式程度）？
 
-### 4. ORGANIZATION & COHERENCE
-- Is there a logical flow from opening to closing?
-- Are transitions used effectively?
-- Is the email structure appropriate (purpose → details → closing)?
+### 4. 组织与连贯性
+- 从开头到结尾是否有清晰的逻辑脉络？
+- 过渡词/衔接手段是否使用得当？
+- 邮件结构是否合理（目的→细节→收尾）？
 
-### 5. TONE & REGISTER
-- Is the tone appropriate for the audience (professor, classmate, administrator, etc.)?
-- Are social conventions observed?
-- Any awkward shifts in register?
+### 5. 语气与语域
+- 语气是否适合收件人身份（教授、同学、行政人员等）？
+- 社交礼仪是否到位？
+- 是否存在语域突兀切换的问题？
 
-### 6. GRAMMAR ANALYSIS
-List every grammar error found, in this format:
-| # | Original Text | Error Type | Correction | Explanation |
-|---|--------------|------------|------------|-------------|
-| 1 | "..." | [e.g., Subject-verb agreement] | "..." | [Brief explanation] |
+### 6. 语法分析
+逐条列出发现的每一个语法错误，格式如下：
+| # | 原文 | 错误类型 | 修正 | 解释 |
+|---|------|---------|------|------|
+| 1 | "..." | [如：主谓一致] | "..." | [简要解释] |
 
-If no errors, write "No grammar errors found."
+如无语法错误，写"未发现语法错误"。
 
-### 7. VOCABULARY ANALYSIS
-- **Lexical diversity (Type-Token Ratio):** [calculate approximate TTR]
-- **Academic/advanced words used:** [list them]
-- **Imprecise or awkward word choices:** [list with suggested alternatives]
-- **Missed opportunities:** [suggest 2-3 places where stronger vocabulary could improve the response]
+### 7. 词汇分析
+- **词汇多样性（类符/形符比 TTR）：** [计算近似值]
+- **使用的学术/高级词汇：** [列出]
+- **不精确或不自然的用词：** [列出并给出替换建议]
+- **提升机会：** [指出 2-3 处可以用更好的词汇来提升表达的地方]
 
-### 8. STRENGTHS
-List 2-3 specific things the response does well, with examples from the text.
+### 8. 亮点
+列出 2-3 个作文做得好的地方，引用原文作为证据。
 
-### 9. AREAS FOR IMPROVEMENT
-List 2-3 specific, actionable improvements with concrete examples of how to implement them.
+### 9. 改进建议
+列出 2-3 个具体、可操作的改进方向，并给出具体的修改示例。
 
-### 10. REWRITTEN MODEL RESPONSE
-Provide a score-5 model response to the same prompt that demonstrates:
-- Complete task fulfillment
-- Appropriate tone and email conventions
-- Specific, concrete details
-- Strong vocabulary and grammar
-- Logical organization
+### 10. 满分范文
+针对同一题目写一篇 5 分范文，需要体现：
+- 完整的任务完成度
+- 恰当的语气和邮件格式
+- 具体、有细节的内容
+- 优秀的词汇和语法
+- 清晰的逻辑组织
 
-### 11. KEY TAKEAWAYS
-List 3 bullet points: the most important lessons from this practice session.
+### 11. 核心收获
+列出 3 条要点：本次练习最重要的经验教训。
 ```
 
 ---
 
-## Usage Tips
+## 使用提示
 
-1. **Always include the original prompt** — The AI needs to evaluate task fulfillment against the specific scenario.
-2. **Record your actual writing time** — This helps track whether you're managing the 7-minute limit.
-3. **Don't edit your response before analysis** — The whole point is to analyze your first-draft performance.
-4. **Save the analysis** — Copy the AI's feedback into `analysis.md` in the corresponding topic folder.
-5. **Track patterns** — After 5-10 analyses, look for recurring issues (e.g., always forgetting email closings, tense errors).
+1. **务必附上原题** — AI 需要对照题目来评估任务完成度。
+2. **记录实际写作时间** — 用来追踪你是否能控制在 7 分钟内完成。
+3. **不要在分析前修改作文** — 分析的就是你的初稿表现。
+4. **保存分析结果** — 将 AI 的反馈复制到对应题目文件夹的 `analysis.md` 中。
+5. **寻找规律** — 做完 5-10 篇后，回顾是否有反复出现的问题（比如总是忘写邮件结尾、时态错误等）。

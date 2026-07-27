@@ -1,114 +1,116 @@
-# AI Analysis Prompt — Writing for an Academic Discussion
+# AI 分析提示词 — Writing for an Academic Discussion
 
-> Copy this prompt and paste it into your AI assistant (ChatGPT, Claude, etc.) along with your prompt and response to get detailed feedback.
+> 将以下提示词连同你的题目和作文一起粘贴到 AI 助手（ChatGPT、Claude 等）中，获取详细反馈。
 
 ---
 
-## Prompt
+## 提示词
 
 ```
-You are an expert TOEFL iBT writing evaluator specializing in the "Writing for an Academic Discussion" task. Analyze the following discussion response according to the official ETS rubric (0–5 scale). Be strict but fair — treat the response as a first draft written under timed conditions (10 minutes). The minimum recommended length is 100 words.
+你是一位专业的托福 iBT 写作评估专家，专门负责评估 "Writing for an Academic Discussion"（学术讨论写作）任务。请根据 ETS 官方评分标准（0-5 分制）对以下学术讨论回复进行分析。请严格但公正——将作文视为限时条件下（10分钟）完成的初稿。官方建议最低字数为 100 词。
 
-## DISCUSSION CONTEXT:
-### Professor's Question:
-[Paste the professor's question here]
+所有分析和反馈请用中文回复，但引用原文时保留英文原文。
 
-### Student A's Response:
-[Paste Student A's response here]
+## 讨论背景：
+### 教授的问题：
+[在此粘贴教授的问题]
 
-### Student B's Response:
-[Paste Student B's response here]
+### 学生 A 的回复：
+[在此粘贴学生 A 的回复]
 
-## STUDENT'S RESPONSE:
-[Paste your response here]
+### 学生 B 的回复：
+[在此粘贴学生 B 的回复]
 
-## ACTUAL WRITING TIME:
-[e.g., 9 minutes 15 seconds]
+## 学生作文：
+[在此粘贴你的作文]
+
+## 实际写作时间：
+[例如：9分15秒]
 
 ---
 
-Please provide your analysis in the following format:
+请按以下格式提供分析：
 
-### 1. OVERALL SCORE: X/5
-State the score and a one-sentence justification.
+### 1. 总评分：X/5
+给出分数并用一句话说明理由。
 
-### 2. STATISTICS
-- **Word count:** [number] (minimum 100 required)
-- **Sentence count:** [number]
-- **Average sentence length:** [number] words
-- **Paragraph count:** [number]
+### 2. 基础统计
+- **字数：** [数字]（最低要求 100 词）
+- **句子数：** [数字]
+- **平均句长：** [数字] 词
+- **段落数：** [数字]
 
-### 3. TASK FULFILLMENT & RELEVANCE
-- Does the response directly address the professor's question?
-- Is there a clear, specific, contestable position?
-- Is the position something peers might disagree with (not a truism)?
+### 3. 任务完成度与相关性
+- 作文是否直接回应了教授的问题？
+- 是否有清晰、具体、可争辩的立场？
+- 你的立场是否是同学可能不同意的观点（而不是一句正确的废话）？
 
-### 4. DEVELOPMENT & SUPPORT
-- Are specific examples, cases, or experiences provided?
-- Is the reasoning concrete or abstract/generic?
-- How many distinct supporting points are developed?
-- Quality assessment: Are examples illustrative or merely mentioned?
+### 4. 论证展开与支撑
+- 是否提供了具体的例子、案例或亲身经历？
+- 论证是具体的还是抽象/笼统的？
+- 展开了几个不同的论证要点？
+- 质量评估：例子是有说服力的论证，还是仅仅被提及？
 
-### 5. DISCUSSION ENGAGEMENT
-- Does the response reference the professor's question?
-- Does it engage with Student A's or Student B's viewpoints?
-- Is there meaningful agreement, disagreement, or extension of others' ideas?
-- Is the counterargument acknowledged?
+### 5. 讨论参与度
+- 作文是否引用了教授的问题？
+- 是否与学生 A 或学生 B 的观点进行了互动？
+- 是否有实质性的赞同、反驳或延伸他人观点？
+- 是否承认了反方观点？
 
-### 6. ORIGINALITY CHECK
-- Does the response use original language or copy from the prompt/student responses?
-- Are there formulaic expressions or template phrases?
-- Highlight any directly copied segments.
+### 6. 原创性检查
+- 作文是否使用了原创语言，还是从题目/学生回复中抄袭？
+- 是否有套话或模板化表达？
+- 标出所有直接复制的片段。
 
-### 7. GRAMMAR ANALYSIS
-List every grammar error found, in this format:
-| # | Original Text | Error Type | Correction | Explanation |
-|---|--------------|------------|------------|-------------|
-| 1 | "..." | [e.g., Subject-verb agreement] | "..." | [Brief explanation] |
+### 7. 语法分析
+逐条列出发现的每一个语法错误，格式如下：
+| # | 原文 | 错误类型 | 修正 | 解释 |
+|---|------|---------|------|------|
+| 1 | "..." | [如：主谓一致] | "..." | [简要解释] |
 
-If no errors, write "No grammar errors found."
+如无语法错误，写"未发现语法错误"。
 
-### 8. VOCABULARY ANALYSIS
-- **Lexical diversity (Type-Token Ratio):** [calculate approximate TTR]
-- **Academic/advanced words used:** [list them]
-- **Imprecise or awkward word choices:** [list with suggested alternatives]
-- **Missed opportunities:** [suggest 2-3 places where stronger vocabulary could improve the response]
+### 8. 词汇分析
+- **词汇多样性（类符/形符比 TTR）：** [计算近似值]
+- **使用的学术/高级词汇：** [列出]
+- **不精确或不自然的用词：** [列出并给出替换建议]
+- **提升机会：** [指出 2-3 处可以用更好的词汇来提升表达的地方]
 
-### 9. SYNTACTIC VARIETY
-- Analyze sentence structure variety: simple / compound / complex / compound-complex
-- Approximate distribution: [e.g., 40% simple, 30% compound, 20% complex, 10% compound-complex]
-- Are subordinate clauses, appositives, or participial phrases used?
-- Suggestions for improving syntactic range.
+### 9. 句式多样性
+- 分析句型结构多样性：简单句 / 并列句 / 复合句 / 并列复合句
+- 大致比例分布：[如：40% 简单句，30% 并列句，20% 复合句，10% 并列复合句]
+- 是否使用了从句、同位语、分词短语等？
+- 提升句式丰富度的建议。
 
-### 10. STRENGTHS
-List 2-3 specific things the response does well, with examples from the text.
+### 10. 亮点
+列出 2-3 个作文做得好的地方，引用原文作为证据。
 
-### 11. AREAS FOR IMPROVEMENT
-List 2-3 specific, actionable improvements with concrete examples of how to implement them.
+### 11. 改进建议
+列出 2-3 个具体、可操作的改进方向，并给出具体的修改示例。
 
-### 12. REWRITTEN MODEL RESPONSE
-Provide a score-5 model response to the same discussion that demonstrates:
-- A sharp, contestable position (not a truism)
-- Concrete, well-developed support (at least one specific example)
-- Meaningful engagement with the discussion context
-- Acknowledgment of the counterargument
-- Syntactic variety (mix of simple, compound, and complex sentences)
-- Precise, academic vocabulary used naturally
-- Original expression (no copied prompt language)
-- 120-150 words (quality over quantity)
+### 12. 满分范文
+针对同一讨论题目写一篇 5 分范文，需要体现：
+- 鲜明、可争辩的立场（不是正确的废话）
+- 具体、充分展开的论证（至少一个详细例子）
+- 与讨论背景的实质性互动
+- 承认反方观点
+- 句式多样（简单句、并列句、复合句交替使用）
+- 精准、学术化但自然的词汇
+- 原创表达（不照搬题目语言）
+- 120-150 词（质量优先于数量）
 
-### 13. KEY TAKEAWAYS
-List 3 bullet points: the most important lessons from this practice session.
+### 13. 核心收获
+列出 3 条要点：本次练习最重要的经验教训。
 ```
 
 ---
 
-## Usage Tips
+## 使用提示
 
-1. **Include the full discussion context** — The AI needs to see the professor's question AND both student responses to evaluate engagement.
-2. **Record your actual writing time** — Track whether you're managing the 10-minute limit.
-3. **Don't edit your response before analysis** — Analyze your authentic first-draft performance.
-4. **Pay special attention to "Discussion Engagement"** — This is unique to this task and a common weakness.
-5. **Watch for copied language** — The rubric explicitly penalizes responses that borrow too heavily from the prompt.
-6. **Track your syntactic variety scores** — If you're consistently writing mostly simple sentences, this is a priority area to improve.
-7. **Save the analysis** — Copy the AI's feedback into `analysis.md` in the corresponding topic folder.
+1. **附上完整的讨论背景** — AI 需要看到教授的问题和两位学生的回复，才能评估你的讨论参与度。
+2. **记录实际写作时间** — 用来追踪你是否能控制在 10 分钟内完成。
+3. **不要在分析前修改作文** — 分析的就是你真实的初稿表现。
+4. **重点关注"讨论参与度"** — 这是本题型特有的评分维度，也是常见的薄弱环节。
+5. **警惕照搬原文** — 评分标准明确惩罚过度借用题目语言的回答。
+6. **追踪句式多样性得分** — 如果你一直以简单句为主，这是需要优先提升的方向。
+7. **保存分析结果** — 将 AI 的反馈复制到对应题目文件夹的 `analysis.md` 中。
