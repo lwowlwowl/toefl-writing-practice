@@ -1,8 +1,8 @@
-# My Response — Email 001
+# 我的作文 — Email 001
 
-**Date:** YYYY-MM-DD
-**Writing time:** X min X sec
+**日期：** YYYY-MM-DD
+**写作用时：** X 分 X 秒
 
 ---
 
-[Write your response here]
+[在此写你的作文]

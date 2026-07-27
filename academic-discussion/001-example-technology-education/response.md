@@ -1,9 +1,9 @@
-# My Response — Discussion 001
+# 我的作文 — Discussion 001
 
-**Date:** YYYY-MM-DD
-**Writing time:** X min X sec
-**Word count:** —
+**日期：** YYYY-MM-DD
+**写作用时：** X 分 X 秒
+**字数：** —
 
 ---
 
-[Write your response here]
+[在此写你的作文]

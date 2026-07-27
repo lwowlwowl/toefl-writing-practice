@@ -1,10 +1,8 @@
-# AI Analysis — Email 001
+# AI 分析 — Email 001
 
-> Paste the AI analysis output here after running the prompt from `prompts/email-analysis-prompt.md`.
-
-**Score:** —/5
-**Date:** YYYY-MM-DD
+**评分：** —/5
+**日期：** YYYY-MM-DD
 
 ---
 
-[Paste AI analysis here]
+[AI 分析结果将自动写入此处]

@@ -1,49 +1,49 @@
-# Writing for an Academic Discussion
+# Writing for an Academic Discussion（学术讨论写作）
 
-## Task Overview
+## 题型概述
 
-In the TOEFL iBT "Writing for an Academic Discussion" task, you read a professor's question and two students' responses in an online discussion forum, then contribute your own response. You should state your position, support it with specific reasons or examples, and engage with the discussion context.
+在托福 iBT "Writing for an Academic Discussion" 任务中，你会阅读教授在在线讨论区提出的问题以及两位同学的回复，然后写出你自己的回应。你需要表明立场，用具体的理由或例子支撑观点，并与讨论背景产生互动。
 
-**Time limit:** 10 minutes
+**时间限制：** 10 分钟
 
-**Minimum length:** 100 words
+**最低字数：** 100 词
 
-**Scoring:** 0–5 rubric evaluating relevance, development, engagement with discussion, originality, syntactic variety, and language control.
+**评分标准：** 0-5 分制，评估相关性、论证展开、讨论参与度、原创性、句式多样性和语言控制能力。
 
-## Key Strategies
+## 备考策略
 
-**Take a clear, specific position.** "Broad exposure is good" is too vague to score well. Narrow your claim to something contestable and defend it. The best responses stake out a position that your peers might actually disagree with.
+**立场要鲜明、具体。** "广泛学习是有好处的"太笼统，拿不到高分。把你的观点收窄到一个别人可能不同意的论断上，然后去论证它。最好的回答会提出一个同学们真正可能反驳的立场。
 
-**Engage with the discussion.** Don't write in a vacuum. Reference the professor's question or the students' viewpoints, then build on or counter them. This shows you're participating in a conversation, not delivering a monologue.
+**参与讨论。** 不要凭空写作。引用教授的问题或同学的观点，在此基础上拓展或反驳。这说明你在参与一场对话，而不是在自说自话。
 
-**Use concrete examples.** A personal experience, a specific case study, or a real-world scenario is far more compelling than abstract generalizations. One well-developed example beats three vague ones.
+**用具体的例子。** 一段亲身经历、一个具体案例、一个真实场景，远比空泛的概括有说服力。一个充分展开的例子胜过三个一笔带过的例子。
 
-**Acknowledge the counterargument.** Even a single sentence ("I understand the concern that...") shows intellectual maturity and earns you points on the rubric.
+**承认反方观点。** 哪怕只有一句话（"我理解有人会担心……"），也能体现思维的成熟度，在评分标准上是加分项。
 
-**Vary your sentence structures.** Mix simple, compound, and complex sentences. Use subordinate clauses, appositives, and transitional phrases. Syntactic variety is explicitly evaluated in this task.
+**变换句式结构。** 混合使用简单句、并列句和复合句。使用从句、同位语、过渡短语。句式多样性是本题型明确评估的维度。
 
-**Write in your own words.** The rubric penalizes responses that copy language from the prompt or student responses. Paraphrase and express ideas originally.
+**用自己的话表达。** 评分标准明确惩罚从题目或学生回复中照搬语言的回答。学会转述，用原创的方式表达想法。
 
-## Folder Structure
+## 文件结构
 
-Each topic is stored in a numbered folder:
+每个题目存放在一个编号文件夹中：
 
 ```
 academic-discussion/
 ├── 001-topic-name/
-│   ├── prompt.md       # Professor's question + student responses
-│   ├── response.md     # Your timed response
-│   └── analysis.md     # AI-generated feedback
+│   ├── prompt.md       # 教授的问题 + 学生回复
+│   ├── response.md     # 你的限时作文
+│   └── analysis.md     # AI 分析反馈
 ├── 002-topic-name/
 │   └── ...
 ```
 
-## Topic List
+## 题目列表
 
-| # | Topic | Status | Score | Date |
-|---|-------|--------|-------|------|
+| # | 题目 | 状态 | 得分 | 日期 |
+|---|------|------|------|------|
 | 001 | — | ⬜ | — | — |
 | 002 | — | ⬜ | — | — |
 | ... | — | ⬜ | — | — |
 
-> Update this table as you complete each topic. Status: ⬜ Not started · ✍️ In progress · ✅ Done
+> 完成后更新此表。状态说明：⬜ 未开始 · ✍️ 进行中 · ✅ 已完成

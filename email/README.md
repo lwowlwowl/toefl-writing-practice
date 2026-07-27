@@ -1,45 +1,45 @@
-# Write an Email
+# Write an Email（邮件写作）
 
-## Task Overview
+## 题型概述
 
-In the TOEFL iBT "Write an Email" task, you read a short real-world scenario and write a brief email in response. The scenario may involve making a request, giving information, proposing a solution, or responding to a situation in an academic or social context.
+在托福 iBT "Write an Email" 任务中，你会阅读一个贴近真实生活的场景，然后写一封简短的邮件进行回应。场景可能涉及提出请求、提供信息、提出解决方案，或回应某个学术或社交情境。
 
-**Time limit:** 7 minutes
+**时间限制：** 7 分钟
 
-**Scoring:** 0–5 rubric evaluating communicative purpose, clarity, organization, tone, and language control.
+**评分标准：** 0-5 分制，评估沟通目的、清晰度、组织结构、语气和语言控制能力。
 
-## Key Strategies
+## 备考策略
 
-**Read the scenario carefully.** Identify exactly what you need to accomplish — are you requesting something, explaining something, or proposing a solution? Make sure every part of the prompt is addressed.
+**仔细审题。** 明确你需要完成什么——是在请求什么、解释什么、还是提出解决方案？确保题目的每个要求都被回应到。
 
-**Use appropriate email conventions.** Include a greeting and closing. Match the tone to the audience — a message to a professor requires a different register than one to a classmate.
+**使用恰当的邮件格式。** 包含称呼和结尾。根据收件人调整语气——给教授写信和给同学写信的正式程度完全不同。
 
-**Be specific and concrete.** Don't just say "I have a problem." Explain what the problem is, why it matters, and what you'd like the recipient to do about it.
+**具体而有细节。** 不要只说"我遇到了一个问题"，要说清楚问题是什么、为什么重要、你希望对方怎么做。
 
-**Organize logically.** Even in a short email, your ideas should flow naturally. State your purpose early, provide supporting details, and close with a clear action or expectation.
+**逻辑清晰。** 即使是一封短邮件，思路也应该自然流畅。尽早说明目的，提供支撑细节，最后以明确的行动或期望收尾。
 
-**Don't over-polish.** This is scored as a first draft. Spending too long on perfect grammar can cost you time better spent on content and completeness.
+**不要过度打磨。** 这是按初稿评分的。花太多时间追求完美语法，可能会让你没时间把内容写完整。
 
-## Folder Structure
+## 文件结构
 
-Each topic is stored in a numbered folder:
+每个题目存放在一个编号文件夹中：
 
 ```
 email/
 ├── 001-topic-name/
-│   ├── prompt.md       # The email scenario
-│   ├── response.md     # Your timed response
-│   └── analysis.md     # AI-generated feedback
+│   ├── prompt.md       # 邮件场景题目
+│   ├── response.md     # 你的限时作文
+│   └── analysis.md     # AI 分析反馈
 ├── 002-topic-name/
 │   └── ...
 ```
 
-## Topic List
+## 题目列表
 
-| # | Topic | Status | Score | Date |
-|---|-------|--------|-------|------|
+| # | 题目 | 状态 | 得分 | 日期 |
+|---|------|------|------|------|
 | 001 | — | ⬜ | — | — |
 | 002 | — | ⬜ | — | — |
 | ... | — | ⬜ | — | — |
 
-> Update this table as you complete each topic. Status: ⬜ Not started · ✍️ In progress · ✅ Done
+> 完成后更新此表。状态说明：⬜ 未开始 · ✍️ 进行中 · ✅ 已完成
