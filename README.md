@@ -14,22 +14,22 @@ toefl-writing-practice/
 ├── email/                          # Write an Email (≈80 topics)
 │   ├── README.md                   # Task overview & tips
 │   ├── 001-campus-housing/
-│   │   ├── 01-题目.md               # Original prompt / scenario
+│   │   ├── 01-prompt.md               # Original prompt / scenario
 │   │   ├── 02-answer.md             # My written response
 │   │   └── 03-analysis.md             # AI analysis & feedback
 │   ├── 002-library-hours/
-│   │   ├── 01-题目.md
+│   │   ├── 01-prompt.md
 │   │   ├── 02-answer.md
 │   │   └── 03-analysis.md
 │   └── ...
 ├── academic-discussion/            # Writing for an Academic Discussion (≈70 topics)
 │   ├── README.md                   # Task overview & tips
 │   ├── 001-technology-education/
-│   │   ├── 01-题目.md               # Professor's question + student responses
+│   │   ├── 01-prompt.md               # Professor's question + student responses
 │   │   ├── 02-answer.md             # My written response
 │   │   └── 03-analysis.md             # AI analysis & feedback
 │   ├── 002-remote-work/
-│   │   ├── 01-题目.md
+│   │   ├── 01-prompt.md
 │   │   ├── 02-answer.md
 │   │   └── 03-analysis.md
 │   └── ...
@@ -45,7 +45,7 @@ toefl-writing-practice/
 ## Workflow
 
 1. **Pick a topic** — Choose an unpracticed topic from either `email/` or `academic-discussion/`.
-2. **Read the prompt** — Open `01-题目.md` and understand the scenario / discussion context.
+2. **Read the prompt** — Open `01-prompt.md` and understand the scenario / discussion context.
 3. **Write under timed conditions** — Email: 7 minutes; Academic Discussion: 10 minutes.
 4. **Save your response** — Write it in `02-answer.md` (record your actual writing time).
 5. **Run AI analysis** — Use the prompt from `prompts/` to get detailed feedback, save it in `03-analysis.md`.

@@ -31,7 +31,7 @@
 ```
 academic-discussion/
 ├── 001-topic-name/
-│   ├── 01-题目.md       # 教授的问题 + 学生回复
+│   ├── 01-prompt.md       # 教授的问题 + 学生回复
 │   ├── 02-answer.md     # 你的限时作文
 │   └── 03-analysis.md     # AI 分析反馈
 ├── 002-topic-name/
