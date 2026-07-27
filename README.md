@@ -14,24 +14,24 @@ toefl-writing-practice/
 ├── email/                          # Write an Email (≈80 topics)
 │   ├── README.md                   # Task overview & tips
 │   ├── 001-campus-housing/
-│   │   ├── prompt.md               # Original prompt / scenario
-│   │   ├── response.md             # My written response
-│   │   └── analysis.md             # AI analysis & feedback
+│   │   ├── 01-题目.md               # Original prompt / scenario
+│   │   ├── 02-answer.md             # My written response
+│   │   └── 03-analysis.md             # AI analysis & feedback
 │   ├── 002-library-hours/
-│   │   ├── prompt.md
-│   │   ├── response.md
-│   │   └── analysis.md
+│   │   ├── 01-题目.md
+│   │   ├── 02-answer.md
+│   │   └── 03-analysis.md
 │   └── ...
 ├── academic-discussion/            # Writing for an Academic Discussion (≈70 topics)
 │   ├── README.md                   # Task overview & tips
 │   ├── 001-technology-education/
-│   │   ├── prompt.md               # Professor's question + student responses
-│   │   ├── response.md             # My written response
-│   │   └── analysis.md             # AI analysis & feedback
+│   │   ├── 01-题目.md               # Professor's question + student responses
+│   │   ├── 02-answer.md             # My written response
+│   │   └── 03-analysis.md             # AI analysis & feedback
 │   ├── 002-remote-work/
-│   │   ├── prompt.md
-│   │   ├── response.md
-│   │   └── analysis.md
+│   │   ├── 01-题目.md
+│   │   ├── 02-answer.md
+│   │   └── 03-analysis.md
 │   └── ...
 ├── prompts/                        # AI analysis prompts
 │   ├── email-analysis-prompt.md    # Prompt for analyzing Email responses
@@ -45,10 +45,10 @@ toefl-writing-practice/
 ## Workflow
 
 1. **Pick a topic** — Choose an unpracticed topic from either `email/` or `academic-discussion/`.
-2. **Read the prompt** — Open `prompt.md` and understand the scenario / discussion context.
+2. **Read the prompt** — Open `01-题目.md` and understand the scenario / discussion context.
 3. **Write under timed conditions** — Email: 7 minutes; Academic Discussion: 10 minutes.
-4. **Save your response** — Write it in `response.md` (record your actual writing time).
-5. **Run AI analysis** — Use the prompt from `prompts/` to get detailed feedback, save it in `analysis.md`.
+4. **Save your response** — Write it in `02-answer.md` (record your actual writing time).
+5. **Run AI analysis** — Use the prompt from `prompts/` to get detailed feedback, save it in `03-analysis.md`.
 6. **Review & reflect** — Study the feedback, note recurring issues, and track progress.
 
 ## AI Analysis Dimensions

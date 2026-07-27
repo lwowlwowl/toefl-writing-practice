@@ -27,9 +27,9 @@
 ```
 email/
 ├── 001-topic-name/
-│   ├── prompt.md       # 邮件场景题目
-│   ├── response.md     # 你的限时作文
-│   └── analysis.md     # AI 分析反馈
+│   ├── 01-题目.md       # 邮件场景题目
+│   ├── 02-answer.md     # 你的限时作文
+│   └── 03-analysis.md     # AI 分析反馈
 ├── 002-topic-name/
 │   └── ...
 ```
