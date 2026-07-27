@@ -1,60 +1,60 @@
-# Write an Email — Scoring Rubric (0–5)
+# Write an Email — 评分标准（0-5 分）
 
-> Based on the official ETS TOEFL iBT scoring criteria. Responses are evaluated as first drafts — minor errors are expected and accepted.
+> 基于 ETS 官方托福 iBT 评分标准。作文按初稿评判——允许出现少量错误。
 
-## Score 5 — Strong Performance
+## 5 分 — 优秀
 
-- Fully addresses the task with clear communicative purpose
-- Well-organized with logical flow and appropriate email conventions
-- Provides specific, relevant supporting details
-- Tone matches the audience and situation
-- Consistent control of grammar and vocabulary; minor errors don't interfere with meaning
+- 完整回应任务，沟通目的清晰
+- 组织有序，逻辑流畅，邮件格式恰当
+- 提供了具体、相关的支撑细节
+- 语气匹配收件人身份和情境
+- 语法和词汇控制稳定，少量错误不影响理解
 
-## Score 4 — Good Performance
+## 4 分 — 良好
 
-- Addresses the task effectively with generally clear purpose
-- Adequate organization and development
-- Support is present but may be somewhat general
-- Appropriate tone with occasional inconsistencies
-- Some language errors, but meaning remains clear throughout
+- 有效回应任务，目的基本清晰
+- 组织和展开充分
+- 有支撑内容，但可能偏笼统
+- 语气整体恰当，偶有不一致
+- 存在一些语言错误，但意思始终清楚
 
-## Score 3 — Fair Performance
+## 3 分 — 一般
 
-- Addresses the task but with limited development
-- Organization may be unclear or inconsistent
-- Support is vague or partially relevant
-- Tone may not fully match the situation
-- Noticeable errors that sometimes affect comprehension
+- 回应了任务，但展开不够充分
+- 组织可能不够清晰或前后不一致
+- 支撑内容模糊或部分相关
+- 语气可能不太匹配情境
+- 明显的错误有时影响理解
 
-## Score 2 — Limited Performance
+## 2 分 — 较弱
 
-- Partially addresses the task with unclear purpose
-- Weak organization and limited development
-- Little or irrelevant support
-- Inappropriate or inconsistent tone
-- Frequent errors that often interfere with meaning
+- 仅部分回应任务，目的不明确
+- 组织薄弱，展开不足
+- 支撑内容很少或不相关
+- 语气不恰当或前后矛盾
+- 频繁的错误经常影响理解
 
-## Score 1 — Minimal Performance
+## 1 分 — 很弱
 
-- Minimally addresses the task
-- Very limited content
-- Serious, pervasive language errors
+- 极少回应任务
+- 内容极为有限
+- 严重且普遍的语言错误
 
-## Score 0 — No Scorable Response
+## 0 分 — 无有效作答
 
-- No response, off-topic, or not in English
+- 未作答、离题、或非英文
 
 ---
 
-## Key Evaluation Dimensions
+## 核心评分维度
 
-| Dimension | What Raters Look For |
-|-----------|---------------------|
-| **Communicative Purpose** | Does the email accomplish its goal? Is the intent clear? |
-| **Task Fulfillment** | Are all parts of the prompt addressed? |
-| **Organization** | Does the email flow logically from opening to closing? |
-| **Development** | Are ideas supported with specific details or examples? |
-| **Tone & Register** | Is the tone appropriate for the audience (professor, classmate, administrator)? |
-| **Email Conventions** | Greeting, closing, appropriate level of formality? |
-| **Grammar & Mechanics** | Subject-verb agreement, tense, articles, spelling, punctuation |
-| **Vocabulary** | Word choice accuracy, variety, appropriateness |
+| 维度 | 评分关注点 |
+|------|-----------|
+| **沟通目的** | 邮件是否达成了目标？意图是否清晰？ |
+| **任务完成度** | 题目的所有要求是否都被回应？ |
+| **组织结构** | 邮件从开头到结尾是否逻辑流畅？ |
+| **内容展开** | 观点是否有具体细节或例子支撑？ |
+| **语气与语域** | 语气是否适合收件人（教授、同学、行政人员）？ |
+| **邮件格式** | 称呼、结尾、正式程度是否恰当？ |
+| **语法与拼写** | 主谓一致、时态、冠词、拼写、标点 |
+| **词汇** | 用词准确性、多样性、恰当性 |

@@ -1,74 +1,74 @@
-# Writing for an Academic Discussion — Scoring Rubric (0–5)
+# Writing for an Academic Discussion — 评分标准（0-5 分）
 
-> Based on the official ETS TOEFL iBT scoring criteria. Responses are evaluated as first drafts — minor errors are expected and accepted. Minimum recommended length: 100 words.
+> 基于 ETS 官方托福 iBT 评分标准。作文按初稿评判——允许出现少量错误。建议最低字数：100 词。
 
-## Score 5 — Strong Contribution
+## 5 分 — 优秀
 
-- Relevant, well-developed response with a clear position
-- Strong elaboration using specific examples or reasoning
-- Engages meaningfully with the discussion context (professor's question and/or student responses)
-- Uses original language — does not copy from the prompt
-- Demonstrates syntactic variety and consistent lexical/grammatical control
-- Meets or exceeds the 100-word minimum
+- 回应相关且充分展开，立场清晰
+- 用具体例子或推理进行有力论证
+- 与讨论背景（教授的问题和/或同学的回复）有实质性互动
+- 使用原创语言，不照搬题目
+- 句式多样，词汇和语法控制稳定
+- 达到或超过 100 词最低要求
 
-## Score 4 — Good Contribution
+## 4 分 — 良好
 
-- Relevant response with adequate development
-- Clear position with some specific support
-- Some engagement with the discussion context
-- Generally original expression with some reliance on prompt language
-- Adequate language control with some errors that don't obscure meaning
+- 回应相关，展开充分
+- 立场清晰，有一定具体支撑
+- 与讨论背景有一定互动
+- 表达基本原创，偶尔依赖题目语言
+- 语言控制较好，部分错误不影响理解
 
-## Score 3 — Fair Contribution
+## 3 分 — 一般
 
-- Somewhat relevant response with partial development
-- Position may be unclear or weakly supported
-- Limited engagement with the discussion
-- Some reliance on copied language or formulaic expressions
-- Noticeable errors that sometimes affect clarity
+- 回应部分相关，展开有限
+- 立场可能不够清晰或支撑薄弱
+- 与讨论的互动有限
+- 部分依赖照搬语言或套话
+- 明显的错误有时影响理解
 
-## Score 2 — Limited Contribution
+## 2 分 — 较弱
 
-- Limited relevance or development
-- Vague or missing position
-- Little or no engagement with other responses
-- Heavy reliance on copied language
-- Frequent errors that interfere with comprehension
+- 相关性或展开不足
+- 立场模糊或缺失
+- 几乎没有与其他回复互动
+- 大量依赖照搬语言
+- 频繁的错误影响理解
 
-## Score 1 — Minimal Contribution
+## 1 分 — 很弱
 
-- Minimally relevant content
-- Very limited development
-- Serious and pervasive language errors
+- 内容极少相关
+- 展开极为有限
+- 严重且普遍的语言错误
 
-## Score 0 — No Scorable Response
+## 0 分 — 无有效作答
 
-- No response, off-topic, copied entirely from prompt, or not in English
-
----
-
-## Key Evaluation Dimensions
-
-| Dimension | What Raters Look For |
-|-----------|---------------------|
-| **Relevance** | Does the response directly address the professor's question? |
-| **Position & Claim** | Is there a clear, specific, contestable position? |
-| **Development** | Is the position supported with concrete examples or reasoning? |
-| **Discussion Engagement** | Does the writer reference or build on the professor's/students' viewpoints? |
-| **Counterargument** | Is the opposing view acknowledged, even briefly? |
-| **Originality** | Is the response in the writer's own words (not copied from the prompt)? |
-| **Syntactic Variety** | Is there a mix of simple, compound, and complex sentence structures? |
-| **Lexical Control** | Is word choice precise, appropriate, and varied? |
-| **Grammar & Mechanics** | Subject-verb agreement, tense, articles, spelling, punctuation |
+- 未作答、离题、完全照抄题目、或非英文
 
 ---
 
-## Score 3 vs Score 5 — What Makes the Difference?
+## 核心评分维度
 
-The gap between a 3 and a 5 is not about length — it's about **sharpness of position** and **specificity of support**.
+| 维度 | 评分关注点 |
+|------|-----------|
+| **相关性** | 回复是否直接回应了教授的问题？ |
+| **立场与论点** | 是否有清晰、具体、可争辩的立场？ |
+| **内容展开** | 立场是否有具体例子或推理支撑？ |
+| **讨论参与度** | 是否引用或延伸了教授/同学的观点？ |
+| **反方观点** | 是否承认了对立面，哪怕只是简要提及？ |
+| **原创性** | 回复是否用自己的话表达（而非照搬题目）？ |
+| **句式多样性** | 是否混合使用了简单句、并列句和复合句？ |
+| **词汇控制** | 用词是否精准、恰当、多样？ |
+| **语法与拼写** | 主谓一致、时态、冠词、拼写、标点 |
 
-A Score 3 might say: *"I think students should take courses outside their major. It is good to learn many things."* — This is a claim no one would disagree with, supported by a generic assertion.
+---
 
-A Score 5 might say: *"Specialized study without an outside lens produces graduates who are technically skilled but cannot translate their work for non-specialists."* — This is a contestable claim, defended with a concrete example of how a specific course changed the writer's professional thinking.
+## 3 分 vs 5 分 — 差距在哪？
 
-**Takeaway:** Stake out a position your peers might reject, then prove you can defend it.
+3 分和 5 分的差距不在字数，而在**立场的锐度**和**论证的具体程度**。
+
+3 分可能这样写：*"I think students should take courses outside their major. It is good to learn many things."* —— 这是一个没人会反对的正确废话，支撑也只是泛泛而谈。
+
+5 分可能这样写：*"Specialized study without an outside lens produces graduates who are technically skilled but cannot translate their work for non-specialists."* —— 这是一个别人可能不同意的可争辩论断，用了一个具体的例子来说明某门课程如何改变了作者的专业视角。
+
+**核心要点：** 提出一个同学可能反驳的立场，然后证明你能为它辩护。

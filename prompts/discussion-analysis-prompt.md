@@ -1,12 +1,12 @@
 # AI 分析提示词 — Writing for an Academic Discussion
 
-> 本提示词供 AI 编码助手（Cursor、Codex、Claude 等）在工作流中自动读取和执行。AI 应自行读取对应题目文件夹中的 `01-prompt.md` 和 `02-answer.md`，完成分析后将结果写入 `03-analysis.md`。
+> 本提示词供 AI 编码助手（Cursor、Codex、Claude 等）在工作流中自动读取和执行。AI 应自行读取对应题目文件夹中的 `01-topic.md` 和 `02-answer.md`，完成分析后将结果写入 `03-analysis.md`。
 
 ---
 
 ## 工作流程
 
-1. 读取当前题目文件夹下的 `01-prompt.md`（教授的问题 + 学生回复）
+1. 读取当前题目文件夹下的 `01-topic.md`（教授的问题 + 学生回复）
 2. 读取当前题目文件夹下的 `02-answer.md`（学生作文及写作时间）
 3. 按照下方分析框架进行评估
 4. 将完整的分析结果以中文写入 `03-analysis.md`
