@@ -1,6 +1,6 @@
-# Email Topic 001: Campus Housing Request
+# Email 001: Campus Housing Request
 
-## Scenario
+## Topic
 
 You recently moved into a dormitory at your university. However, your assigned roommate plays loud music late at night, which is affecting your ability to study and sleep. You have already asked your roommate to lower the volume, but nothing has changed.
 
@@ -11,3 +11,14 @@ You recently moved into a dormitory at your university. However, your assigned r
 - Request a specific solution
 
 **Time limit:** 7 minutes
+
+---
+
+## My Answer
+
+**日期：** YYYY-MM-DD
+**写作用时：** X 分 X 秒
+
+---
+
+[在此写你的作文]

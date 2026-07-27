@@ -1,16 +1,15 @@
 # AI 分析提示词 — Write an Email
 
-> 本提示词供 AI 编码助手（Cursor、Codex、Claude 等）在工作流中自动读取和执行。AI 应自行读取对应题目文件夹中的 `01-topic.md` 和 `02-answer.md`，完成分析后将结果写入 `03-analysis.md`。
+> 本提示词供 AI 编码助手（Cursor、Codex、Claude 等）在工作流中自动读取和执行。AI 应自行读取对应题目文件夹中的 `01-topic-and-answer.md`（包含题目和学生作文），完成分析后将结果写入 `02-analysis.md`。
 
 ---
 
 ## 工作流程
 
-1. 读取当前题目文件夹下的 `01-topic.md`（邮件场景）
-2. 读取当前题目文件夹下的 `02-answer.md`（学生作文及写作时间）
-3. 读取 `rubrics/email-rubric.md` 了解 ETS 官方评分标准
-4. 按照下方分析框架进行评估
-5. 将完整的分析结果以中文写入 `03-analysis.md`
+1. 读取当前题目文件夹下的 `01-topic-and-answer.md`（邮件场景 + 学生作文及写作时间）
+2. 读取 `rubrics/email-rubric.md` 了解 ETS 官方评分标准
+3. 按照下方分析框架进行评估
+4. 将完整的分析结果以中文写入 `02-analysis.md`
 
 ---
 
@@ -99,7 +98,7 @@ I am writing to request a room change due to an ongoing noise issue with my curr
 
 ## 输出要求
 
-- 分析结果写入 `03-analysis.md` 时，在文件顶部注明评分和日期：
+- 分析结果写入 `02-analysis.md` 时，在文件顶部注明评分和日期：
   ```
   # AI 分析 — Email XXX
   
